@@ -1,0 +1,327 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A further proposal from His Excellency Sir Thomas Fairfax, and the Councell of warre of the armie under his command. Desiring the discharge of all such persons as are imprisoned under pretence of conventicles, or for private meetings for religious duties. Also, a petition and remonstaance [sic] from the forces of the Northern Association; declaring the reasons of their apprehending and securing Colonell-Generall Poyntz. By the appointment of his Excellency Sir Thomas Fairfax, and his Councell of Warre. Signed, Iohn Rushworth, Secr.</title>
+            <author>England and Wales. Army. Council.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1647</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 17 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A84726</idno>
+            <idno type="STC">Wing F162</idno>
+            <idno type="STC">Thomason E399_32</idno>
+            <idno type="STC">ESTC R201731</idno>
+            <idno type="EEBO-CITATION">99862230</idno>
+            <idno type="PROQUEST">99862230</idno>
+            <idno type="VID">114381</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A84726)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 114381)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 63:E399[32])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A further proposal from His Excellency Sir Thomas Fairfax, and the Councell of warre of the armie under his command. Desiring the discharge of all such persons as are imprisoned under pretence of conventicles, or for private meetings for religious duties. Also, a petition and remonstaance [sic] from the forces of the Northern Association; declaring the reasons of their apprehending and securing Colonell-Generall Poyntz. By the appointment of his Excellency Sir Thomas Fairfax, and his Councell of Warre. Signed, Iohn Rushworth, Secr.</title>
+                  <author>England and Wales. Army. Council.</author>
+                  <author>Fairfax, Thomas Fairfax, Baron, 1612-1671.</author>
+               </titleStmt>
+               <extent>[2], 10 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for George Whittington, and are to be sold at his shop at the signe of the Blew Anchor in Cornhill, neere the Royall Exchange,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1647.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "July 24".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Religious tolerance --  England --  Early works to 1800.</term>
+               <term>Detention of persons --  England --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-12</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-12</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:114381:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 96 -->
+            <p>A FURTHER PROPOSAL From His Excellency Sir Thomas Fairfax, AND The Councell of warre of the ARMIE under His COMMAND.</p>
+            <p>Deſiring the diſcharge of all ſuch perſons as are impriſoned under pretence of Conventicles, or for private Meetings for Religious Duties.</p>
+            <p>
+               <hi>ALSO,</hi> A Petition and Remonſtaance from the For<g ref="char:EOLhyphen"/>ces of the Northern Aſſociation; declaring the Reaſons of their apprehending and ſecuring Colonell-Generall <hi>Poyntz.</hi>
+            </p>
+            <p>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <p>By the appointment of his Excellency Sir <hi>Thomas Fairfax,</hi> and his Councell of Warre.</p>
+                        <closer>
+                           <signed>Signed, <hi>Iohn Ruſhwo<gap reason="illegible" extent="1 letter">
+                                    <desc>•</desc>
+                                 </gap>th,</hi> Secr.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </p>
+            <p>
+               <hi>London,</hi> Printed for <hi>George Whittington,</hi> and are to be ſold at his ſhop at the ſigne of the Blew Anchor in Cornhill, neere the Royall Exchange, 1647.</p>
+         </div>
+      </front>
+      <body>
+         <div type="proposal_for_release_of_prisoners">
+            <pb facs="tcp:114381:2"/>
+            <!-- PDF PAGE 97 -->
+            <pb n="1" facs="tcp:114381:2"/>
+            <!-- PDF PAGE 97 -->
+            <head>A further Propoſall from his Excellency Sir Thomas Fairfax, and the Councel of Warre, of the Army under his Command.</head>
+            <p>WHereas divers perſons really affected to the weale and peace of this Kingdome (many whereof have ingaged their eſtates and lives with the Parliament in the late warre) are now impriſoned, in<g ref="char:EOLhyphen"/>dicted, and otherwiſe very grievouſly vexed (and ma<g ref="char:EOLhyphen"/>ny others liable to the like trouble) by force or pre<g ref="char:EOLhyphen"/>tence of ſeverall Statutes (eſpecially intended) againſt thoſe who repaire not to ſome Church or Chappell to heare the Booke of Common prayer, or again<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap> thoſe who are Popiſh Recuſants, and by their not going to Church might be diſcovered: And againſt theſe who ſhould hold any Conventicles of Meet<g ref="char:EOLhyphen"/>ings to plot and conſpire ſome miſchiefe to the State. Now foraſmuch as the Parliament hath declared a<g ref="char:EOLhyphen"/>gainſt the Book of Common-prayer, and that the ſaid Act againſt the <hi>Conventicles</hi> was not intended againſt
+<pb n="2" facs="tcp:114381:3"/>
+               <!-- PDF PAGE 98 -->people meeting only for Religious Exerciſes: we there<g ref="char:EOLhyphen"/>fore deſire, That all perſons proceeded againſt upon the Statutes of 3<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>. <hi>Eliz.</hi> 3. <hi>Iacobi,</hi> or upon any other Statutes or Acts whatſoever of the ſame tenour with the premiſes may be forthwith diſcharged from their impriſonments, indictments, or any other moleſt<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>tion whatſoever, by vertue of the fore-mentïoned Sta<g ref="char:EOLhyphen"/>tutes, unleſſe ſuch perſons ſhall bee proved either Po<g ref="char:EOLhyphen"/>piſh Recuſants (and that by ſome other way then by their not coming to Church) or to have in ſuch pri<g ref="char:EOLhyphen"/>vate Meetings as aforeſaid ſome perjurious deſigne, conſpiracie and practice againſt the State.</p>
+            <p>And for a more effectuall courſe herein wee deſire, That the Parliament would be pleaſed to give orders accordingly to all the Judges of Aſſizes for this next Circuit throughout the Kingdome of <hi>England,</hi> and Dominion of <hi>Wales</hi> (as part of their Inſtructions) to acquit all perſons ſuffering as aforeſaid, by vertue, or under pretence of the ſaid Statutes, otherwiſe then as before excepted, and to give the whole matter ſo in charge, that all Juſtices of the Peace, and whom elſe the ſame ſhall concern, may not henceforth a tempt to bring the like trouble upon any other of the well-affectd people of this Kingdome, under the like pre<g ref="char:EOLhyphen"/>tence, as they will anſwer the contrary at their perill.</p>
+            <closer>
+               <dateline>Redding <date>Iuly 21. 1647.</date>
+               </dateline>
+               <signed>By the appointment of his Excellency Sir <hi>Thomas Fairfax,</hi> and his coun<g ref="char:EOLhyphen"/>cell of Warre, Signed, <hi>Iohn Ruſhworth.</hi> Secr.</signed>
+            </closer>
+         </div>
+         <div type="petition">
+            <pb n="3" facs="tcp:114381:3"/>
+            <!-- PDF PAGE 98 -->
+            <head>To his Excellency Sir <hi>Thomas Fair<g ref="char:EOLhyphen"/>fax,</hi> Captain General of all the for<g ref="char:EOLhyphen"/>ces in the Kingdome raiſed for the defence of the Kingdom.</head>
+            <head type="sub">The humble Petition of the Souldiery of the Northern Aſſociation.</head>
+            <opener>Humbly ſheweth,</opener>
+            <p>THat whereas your Excellencies Peti<g ref="char:EOLhyphen"/>tioners, having lately acted in matters that concerne their future well-beinge and ſafety; and alſo declared their willing complyance, and connexion with the Army more immediatly under your Excellencies command, wee being engaged thereunto ſe<g ref="char:EOLhyphen"/>verall wayes, accompt it our duty, aſwell to apprehend their and our oppoſers, for our own ſecurity; as to defend our ſelves in the ſame cauſe. We cannot indeed but with grief relate, that there ſhould bee ſuch perſons a<g ref="char:EOLhyphen"/>mongſt
+<pb n="4" facs="tcp:114381:4"/>
+               <!-- PDF PAGE 99 -->us, that durſt appeare to act againſt thoſe principles, which firſt engaged us to the preſent ſervice. Therefore for our owne preſ<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rvation, wee are enforced to act againſt all ſuch perſons of what quality ſoever, whoſe power might prove deſtructive to the wel-being of the Subject, And accordingly thereupon we have apprehended Col. Gen. Poyntz, who alleadged authority, for acting againſt the publike good. We conſidering what dangerous conſequent effects did, and might flow from ſuch a corrupt member as he, and others of the ſame nature, to deprive us of our future happineſſe (if permitted to remain unremoved) who have made uſe of him, and his authority, to bring to paſſe their plots, of machivilioniſme. We therefore humbly preſent to your Excellency (to whom we conceive we ought to repair for redreſſe) as followeth:</p>
+            <list>
+               <item>1. <hi>That your Excellency would be pleaſed ſeriouſly to ponder the ſadneſſe of our condition in being deſtitute of a Commander in chiefe, of known integrity, and that accordingly your Excellency would be pleaſed to helpe us in this our great neceſſity.</hi>
+               </item>
+               <item>2. <hi>That your Excellencie would be pleaſed to further what<g ref="char:EOLhyphen"/>ſoever may conduce to our future ſafety, for we conceive our ſelvas very neer to deſtruction, when the Enemies of our well-being have the command over us, and would willingly make us acceſſary to our own thraldome.</hi>
+               </item>
+               <item>
+                  <pb n="5" facs="tcp:114381:4"/>
+                  <!-- PDF PAGE 99 -->
+3. <hi>That your Excellency would be pleaſed to cauſe this charge to be proſecuted againſt him by a Councel of Warre of the Army more immediatly under your Excellencies command, many Officers here being acceſſary with him in the ſame undertaking.</hi>
+               </item>
+               <item>4. <hi>Theſe things being performed, we humbly deſire your Ex<g ref="char:EOLhyphen"/>cellency ſeriouſly to conſider our former engagements with you in former ſervice, and to take ſuch courſe for our future ſupply with pay, as we may not lye languiſhing, when our Enemies are in pro<g ref="char:EOLhyphen"/>ſperity.</hi>
+               </item>
+            </list>
+            <closer>And your Petitioners ſhall ever pray, &amp;c.
+<signed>
+                  <list>
+                     <item>
+                        <list>
+                           <head>Colonel <hi>Poyntz</hi> Regiment.</head>
+                           <item>John Bradley</item>
+                           <item>William Smith</item>
+                        </list>
+                     </item>
+                     <item>
+                        <list>
+                           <head>Colonel <hi>Bethels</hi> Regiment.</head>
+                           <item>Thomas Cambridge</item>
+                           <item>William Tomſon</item>
+                        </list>
+                     </item>
+                     <item>
+                        <list>
+                           <head>Colonel <hi>Copeley's</hi> Regiment.</head>
+                           <item>John Hodgſon</item>
+                           <item>William Bates</item>
+                        </list>
+                     </item>
+                     <item>
+                        <list>
+                           <head>Colonel <hi>Ponſonbies</hi> Regiment.</head>
+                           <item>Thomas Hunter</item>
+                           <item>Thomas Wharton</item>
+                        </list>
+                     </item>
+                     <item>
+                        <list>
+                           <head>Colonel <hi>Brights</hi> Regiment.</head>
+                           <item>Iohn Drake</item>
+                           <item>Iames Marke</item>
+                        </list>
+                     </item>
+                     <item>
+                        <list>
+                           <head>Colonel <hi>Overtons</hi> Regiment.</head>
+                           <item>Iohn Benninton</item>
+                           <item>Robert Morrice</item>
+                        </list>
+                     </item>
+                     <item>
+                        <list>
+                           <head>Col. <hi>Collingworths</hi> Regiment.</head>
+                           <item>Robert Sharbie</item>
+                           <item>Thomas Shalloket</item>
+                        </list>
+                     </item>
+                  </list>
+               </signed>
+            </closer>
+         </div>
+         <div type="letter">
+            <pb n="6" facs="tcp:114381:5"/>
+            <!-- PDF PAGE 100 -->
+            <head>The humble Remonſtrance of the Soul<g ref="char:EOLhyphen"/>diers of the Northern Aſſociation, to his Excellency Sir Thomas Fair<g ref="char:EOLhyphen"/>fax, Captain Generall of all the For<g ref="char:EOLhyphen"/>ces of England, raiſed by the Authori<g ref="char:EOLhyphen"/>ty of Parliament.</head>
+            <opener>
+               <salute>May it pleaſe your Excellency,</salute>
+            </opener>
+            <p>WHereas, wee have lately been put upon actions very publique (yet lawfull) which we could have wiſhed had been more private, had we not been expoſed ſo to man<g ref="char:EOLhyphen"/>nage the ſame for neceſſity ſake, and in the carrying on of theſe affaires of ſo great importance; Two things have been laid before us, <hi>Happineſſe</hi> and <hi>Miſery, Peace</hi> and <hi>Warre, Wel<g ref="char:EOLhyphen"/>fare</hi> and <hi>Ruine.</hi>
+            </p>
+            <p>And unleſſe wee ſhould have degenerated from the very principles of nature, and conſequently have become inhu<g ref="char:EOLhyphen"/>mane, wee muſt have carryed on theſe affaires as they now appear to have been.</p>
+            <p>As for our parts, we do ſeriouſly proteſt, that the very prin<g ref="char:EOLhyphen"/>ciples which led us to undertake the ſervice, were for the advancement of the Subjects good <hi>(to wit)</hi> their juſt rights and immunities; And in the undertaking of the ſervice wee were throughly reſolved to live and dye in defence of the ſame.</p>
+            <p>Indeed, we cannot but bleſſe God for that glorious ſuc<g ref="char:EOLhyphen"/>ceſſe which hath been freely given to thoſe that undertooke the ſervice.</p>
+            <p>
+               <pb n="7" facs="tcp:114381:5"/>
+               <!-- PDF PAGE 100 -->
+To this end, although our hardſhips have been very great, and occaſioned many inconveniences to our ſelves, yet our happi<g ref="char:EOLhyphen"/>neſſe is, that the Lord hath crowned our endeavours with the end of our deſires, in ſome reſpect; but notwithſtanding (to our amazement) the endeavours of ſome pretended friends were not wanting utterly to deprive us of the fruit of our hard labours and dangerous ſervice; which enterprizes ſtriking at the temporall foundations of our well-being, brought us very neare even to deſtruction it ſelfe. And ſith it hath pleaſed God to ſtirre up the Army more immediately under your Ex<g ref="char:EOLhyphen"/>cellencies command, to withſtand the Contrivers of this ſtra<g ref="char:EOLhyphen"/>tagem; We could do no leſſe but manifeſt our affectionate ap<g ref="char:EOLhyphen"/>probation of their actions, and our earneſt deſires to partake with them in any condition whatſoever, which are expreſſed in the Declaration, Petition, and Repreſentations which wee lately preſented to your Excellency: But ſince our firſt endea<g ref="char:EOLhyphen"/>vours to aſſociate our ſelves with the Army more immediately under your Excellencies Command (out of the apprehenſion we had of the equity of their proceedings) we found very ma<g ref="char:EOLhyphen"/>ny unwilling perſons both to our and the Kingdomes welfare; which have done as much as in them lies, to obſtruct our pro<g ref="char:EOLhyphen"/>ceedings. And for this their averſneſſe to us, they have pre<g ref="char:EOLhyphen"/>tended the authority of Colonell-Generall <hi>Poyntz;</hi> which we examining, found to be too true; inſomuch as we have recei<g ref="char:EOLhyphen"/>ved divers Letters, ſent to particular Officers, manifeſting not onely the averſneſſe of his ſpirit to whatſoever might conduce to the advancement of the publike good, but alſo the violence that he intended to offer to any ſuch perſons, as ſhould cloſe or comply with that Army more immediatly under your Excel<g ref="char:EOLhyphen"/>lencies Command, in their juſt undertakings: Inſomuch that we having formerly had ſufficient teſtimonies of his violent intreating of ſome, even to the death, without a legall triall,
+<pb n="8" facs="tcp:114381:6"/>
+               <!-- PDF PAGE 101 -->(although it ſhould be granted that their fact were hainous;) we could not expect, but receive hard meaſure from ſuch a one, whoſe will was his reaſon, and his reaſon not his will, he being in a capacity of acting dangerous things, and not wanting a will thereunto, as your Excellency may pleaſe to take notice by the copie of his Letters, our caſe being ſuch, as that our happineſſe conſiſts in being under ſuch command as doe highly prize our welfare for the future. But leaſt wee ſhould paſſe by ſuch perſons whoſe perfidiouſneſſe hath been a great cauſe of his acting, we ſhall humbly remonſtrate to your Excellency, that although in our apprehenſions the carry<g ref="char:EOLhyphen"/>ing on of the buſineſſe by him will import no leſſe then that he did endeavour, as much as in him lay, to re-imbroyle us in a ſecond warre, and that not againſt our foes, but againſt thoſe who were our fellow-ſervants for the publike good, <hi>viz.</hi> the Army in the South: Yet notwithſtanding it is ſo plainely e<g ref="char:EOLhyphen"/>vident unto us, that there is a ſort of men who ſeemingly lie under a prodigious Lethargie, and would gladly render them<g ref="char:EOLhyphen"/>ſelves to the apprehenſions of godly men, as if they were un<g ref="char:EOLhyphen"/>acquainted with the buſineſſe, and frame that as an excuſe for their non-concurrency with us when it is too apparent (for their credit) that they with him have countenanced and kept correſpondency with the Members accuſed by your Excel<g ref="char:EOLhyphen"/>lency; and not onely ſo, but have made uſe of his power for the accompliſhment of their illegall deſigns: But the juſt God will not ſuffer unjuſt men to goe unpuniſhed. Out of the ap<g ref="char:EOLhyphen"/>prehenſion of theſe things, we could doe no leſſe but fore-ſee the eminent danger that was like to befall both our ſelves and the Nation with us, and what a great obſtruction there might (by this meanes) bee put to the preſent hopefull proceedings. We therefore conſidering what dangerous conſequent effects were like to follow, if ſuch as theſe men were ſuffered to re<g ref="char:EOLhyphen"/>ſide
+<pb n="9" facs="tcp:114381:6"/>
+               <!-- PDF PAGE 101 -->amongſt us, and that the meaneſt creature endeavours to uſe all means (even by nature) to preſerve it ſelfe; and know<g ref="char:EOLhyphen"/>ing our late obligement not onely to endeavour to protect, but alſo to act againſt ſuch perſons; we ſent a party of Horſe upon Wedneſday at night, being the ſeventh of this inſtant moneth, to apprehend Colonell-Generall <hi>Poyntz,</hi> which they accordingly did, and in the mannaging of the ſame, were as free from offering any violent and uncivill action, as it was poſſible for men in that cafe to be. He being apprehended, was brought to Pontefract, and is now ſent to be tried by a Councell of Warre of the Army more immediately under your Excellencies command, which wee humbly deſire may be accompliſhed, he having deſerved the ſame for injury done both to Souldiery and Kingdome, as more plainely by the Charge doth appeare. And we ſhall humbly deſire your Ex<g ref="char:EOLhyphen"/>cellency, that ſuch courſe may be taken for a Commander in chiefe, and Officers of integrity to bee intruſted with theſe Northerne Forces, as may abhorre all corruption in their places of truſt, and as doe diſdaine to go ſo far beneath the ſpirits of upright men, as to ſtoop to compliancie with any unjuſt thing for ſiniſter reſpects ſake.</p>
+            <p>Theſe things being accompliſhed, we then hope ſweetly to ſit down under, and fully to be poſſeſſed of that peace and fu<g ref="char:EOLhyphen"/>ture happineſſe, which is the very price of our blood; and we ſhall willingly betake our ſelves to ſuch imployment, as ſhall conduce to Gods glory, and the Kingdomes ſervice.</p>
+            <p>Thus have we humbly remonſtrated to your Excellency our preſent condition: To whom ſhall we appeale (next to divine Providence) for a redreſſe of our grievances, if not to your Ex<g ref="char:EOLhyphen"/>cellency, of whoſe faithfulneſſe we have had ſufficient teſti<g ref="char:EOLhyphen"/>mony, and whom we have followed to look death cheerfully in the face (for our Countreyes freedome) in former ſervices;
+<pb n="10" facs="tcp:114381:7"/>
+               <!-- PDF PAGE 102 -->and we hope ſhall not now be left deſtitute of your helpe; which if we ſhall obtaine, to be added to the reſt of former favours, we ſhall then rejoyce, and quietly repoſe our ſelves to all ſuch warrantable undertakings as ſhall befit men who have been ſo concerned in publike Affaires, and (we hope) ſhall leave our freedome as an inheritance to ſucceeding ages, and our ſelves (in the interim) to be commanded by your Excel<g ref="char:EOLhyphen"/>lency, or whom els you ſhall think fit, for the ſervice and ſafe<g ref="char:EOLhyphen"/>ty of King, Parliament and Kingdome.</p>
+            <closer>
+               <signed>
+                  <list>
+                     <item>
+                        <list>
+                           <head>Colonell <hi>Poyntz</hi>'s Regiment.</head>
+                           <item>Iohn Bradley,</item>
+                           <item>William Smith.</item>
+                        </list>
+                     </item>
+                     <item>
+                        <list>
+                           <head>Colonell <hi>Bethells</hi> Regiment.</head>
+                           <item>Thomas Cambridge,</item>
+                           <item>William Tomſon.</item>
+                        </list>
+                     </item>
+                     <item>
+                        <list>
+                           <head>Colonell <hi>Brights</hi> Regiment.</head>
+                           <item>Iohn Drake,</item>
+                           <item>Fr. Marke.</item>
+                        </list>
+                     </item>
+                     <item>
+                        <list>
+                           <head>Colonell <hi>Overtons</hi> Regiment.</head>
+                           <item>Iohn Benington,</item>
+                           <item>Robert Morris.</item>
+                        </list>
+                     </item>
+                     <item>
+                        <list>
+                           <head>Colonell <hi>Copleys</hi> Regiment.</head>
+                           <item>Iohn Hodgſon,</item>
+                           <item>William Baytes.</item>
+                        </list>
+                     </item>
+                     <item>
+                        <list>
+                           <head>Colonell <hi>Ponſonby's Regiment.</hi>
+                           </head>
+                           <item>Thomas Wharton,</item>
+                           <item>Thomas Hunter.</item>
+                        </list>
+                     </item>
+                     <item>
+                        <list>
+                           <head>Col. <hi>Collingworth's</hi> Regiment.</head>
+                           <item>Robert Sharbye,</item>
+                           <item>Thomas Shalloket.</item>
+                        </list>
+                     </item>
+                  </list>
+               </signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
